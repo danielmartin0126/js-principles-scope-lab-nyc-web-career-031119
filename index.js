@@ -14,3 +14,7 @@ function overwriteBestCustomer() {
 }
 
 leastFavoriteCustomer= "me"
+
+chanceLeastFavoriteCustomer() {
+  leastFavoriteCustomer = "bob"
+}
